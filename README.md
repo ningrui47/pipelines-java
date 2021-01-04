@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ningrui/FirstPipeline/_apis/build/status/ningrui47.pipelines-java?branchName=master)](https://dev.azure.com/ningrui/FirstPipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
